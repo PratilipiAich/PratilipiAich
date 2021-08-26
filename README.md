@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/PratilipiAich/blob/main/ihavenoideawhatimdoing.png?raw=true" alt="i have no idea what im doing" />
+<img src="https://github.com/PratilipiAich/blob/main/ihavenoideawhatimdoing.jpg?raw=true" alt="i have no idea what im doing" />
