@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="logo-nobg.png" width="200"/>
+  <img src="logo-nobg.png" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <h1>
-  Hi there!
+  Hello there!
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50px"/>
 </h1>
 
@@ -32,20 +32,20 @@
 
 <br/>
 
-## GitHub Stats:
+## r e p r e s e n t a t i o n
 ![](https://github-readme-stats.vercel.app/api?username=PratilipiAich&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PratilipiAich&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratilipiAich&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <br/>
 
-## GitHub Trophies
+## c i t a t i o n
 ![](https://github-profile-trophy.vercel.app/?username=pratilipiaich&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 
 <br/>
 
-## Top Contributed Repo
+## m a n i f e s t a t i o n
 ![](https://github-contributor-stats.vercel.app/api?username=pratilipiaich&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <br/>
