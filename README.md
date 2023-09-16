@@ -50,6 +50,7 @@
 
 <br/>
 
+## a p h o r i s m
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
