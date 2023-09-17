@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="logo-nobg.png" width="150"/>
+  <img src="banner-new.png" width="1100"/>
 </div>
 
 <div id="badges" align="center">
