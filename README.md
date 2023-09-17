@@ -2,9 +2,9 @@
   <img src="banner-new.png" width="1100"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="right">
   <a href="https://in.linkedin.com/in/pratilipi-aich">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23eddef1.svg?logo=linkedin&logoColor=black" height="25" alt="LinkedIn"/>
   </a>
 </div>
 
