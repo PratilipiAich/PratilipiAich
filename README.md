@@ -1,17 +1,17 @@
+<h1>
+  Hello there, I'm Pratilipi!
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50px"/>
+</h1>
+
 <div id="header" align="center">
-  <img src="banner-new.png" width="1100"/>
+  <img src="banner.png" width="1100"/>
 </div>
 
 <div id="badges" align="right">
   <a href="https://in.linkedin.com/in/pratilipi-aich">
-    <img src="https://img.shields.io/badge/LinkedIn-%23eddef1.svg?logo=linkedin&logoColor=black" height="25" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23f6dacd.svg?logo=linkedin&logoColor=%23825b55" height="25" alt="LinkedIn"/>
   </a>
 </div>
-
-<h1>
-  Hello there!
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50px"/>
-</h1>
 
 <br/>
 
@@ -27,8 +27,6 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)  
 <br/>
-
-![i have no idea what to do](https://github.com/PratilipiAich/PratilipiAich/blob/master/banner.png?raw=true)
 
 <br/>
 
